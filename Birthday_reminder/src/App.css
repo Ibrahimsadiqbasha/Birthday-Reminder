@@ -1,0 +1,68 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.wholepage {
+  margin: 40px auto;
+  max-width: 600px;
+  background-color: rgba(0, 0, 0, 0.2);
+  padding-top: 20px;
+  border-radius: 30px;
+}
+
+.title {
+  color: black;
+}
+
+.form-content,
+.form-contents {
+  display: block;
+  margin-bottom: 10px;
+  width: 95%;
+  height: 30px;
+}
+
+.form-contents {
+  font-size: 20px;
+  height: 40px;
+  width: 100%;
+}
+
+.form-contents:hover {
+  background-color: rgb(201, 86, 201);
+  cursor: pointer;
+}
+
+.history-box {
+  margin-top: 30px;
+  padding: 30px;
+  border-radius: 8px;
+}
+
+.person-item {
+  margin: 10px auto;
+  padding: 15px;
+  border-radius: 8px;
+  max-width: 400px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+}
+
+.button-overlay button {
+  margin: 5px;
+  padding: 5px 10px;
+  border: none;
+  background-color: #0077cc;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.button-overlay button:hover {
+  background-color: #005fa3;
+}
+
+.adddata {
+  padding: 0 20px;
+}
